@@ -14,8 +14,6 @@ Semua pengguna (Admin maupun Karyawan) mengakses lewat situs (web) yang sama.
 3. Klik tombol **Login**. 
    *(Sistem akan otomatis mengenali apakah akun Anda adalah Admin atau Karyawan dan menampilkan fitur yang sesuai dengan peran Anda.)*
 
-> **[📍 Screenshot Placement: Halaman Login Form]**
-> *Penjelasan gambar: Tampilan halaman login saat pengguna memasukkan kredensial.*
 
 ---
 
@@ -27,16 +25,12 @@ Menampilkan informasi singkat mengenai jadwal Anda.
 - **Status Shift:** Memperlihatkan jadwal masuk & pulang Anda hari ini, beserta posisi stasiun kerja (Assigned Station).
 - **Notifikasi Pintar:** Segala update dari Admin (misal: shift baru) dapat dilihat pada ikon lonceng di pojok kanan atas.
 
-> **[📍 Screenshot Placement: Dashboard Karyawan]**
-> *Penjelasan gambar: Ringkasan shift karyawan yang sedang aktif hari ini.*
 
 ### 2.2. Jadwal & Shift Saya (My Shift)
 Menu ini digunakan untuk memeriksa jadwal kerja harian Anda.
 - **Weekly Schedule**: Di sini Anda dapat melihat jadwal bekerja dan jam kerja yang sudah dialokasikan oleh Admin untuk minggu berjalan (Senin-Minggu).
 - **History**: Melihat catatan shift Anda yang telah selesai pada hari-hari sebelumnya.
 
-> **[📍 Screenshot Placement: Halaman My Shift]**
-> *Penjelasan gambar: Kalender tabel menampilkan penugasan rentang shift 1 minggu untuk staf terkait.*
 
 ### 2.3. Operasional Mesin & Mencatat Transaksi (Penting!)
 Ini adalah **fungsi utama Karyawan** untuk memproses cucian dan secara tidak langsung bertindak sebagai kasir.
@@ -53,8 +47,6 @@ Ini adalah **fungsi utama Karyawan** untuk memproses cucian dan secara tidak lan
    - Setelah cucian selesai fisik dari mesin, klik lagi mesin yang tadi.
    - Ubah Status kembali menjadi **Tersedia (Available)** agar bisa digunakan pelanggan berikutnya.
 
-> **[📍 Screenshot Placement: Pop-up Form Update Status Mesin (Karyawan)]**
-> *Penjelasan gambar: Jendela saat karyawan mengisi status 'Digunakan', memilih layanan cucian, dan menginput Qty kilogram cucian.*
 
 ### 2.4. Daftar Layanan (Services)
 Menu yang berisi katalog layanan dan daftar harganya sebagai referensi tatkala Anda butuh menginformasikan harga kepada pembeli.
@@ -70,8 +62,6 @@ Halaman ringkasan bisnis secara komprehensif. Anda bisa memantau beberapa metrik
 - **Status Mesin:** Cepat memantau mana mesin yang nganggur (Tersedia), mesin yang dipakai, maupun yang sedang rusak (Maintenance).
 - **Transaksi & Staf:** Ringkasan jumlah transaksi tercatat di hari itu dan jumlah staf yang berstatus aktif.
 
-> **[📍 Screenshot Placement: Dashboard Admin]**
-> *Penjelasan gambar: Tampilan sekian kartu metrik analitik dan grafik (revenue, status mesin).*
 
 ### 3.2. Manajemen Mesin (Machines)
 Mendatar semua inventaris mesin cuci/pengering yang ada di toko.
@@ -82,8 +72,6 @@ Mendatar semua inventaris mesin cuci/pengering yang ada di toko.
 - Klik **Add Service** untuk menambah jenis layanan.
 - Anda dapat menginput: Nama Layanan, Deskripsi, Harga (Per Kg/Pcs), dan estimasi waktu selesai. (Tarif ini nanti akan terkoneksi langsung dengan Pilihan Karyawan di panel mesin).
 
-> **[📍 Screenshot Placement: Detail Tabel Services]**
-> *Penjelasan gambar: Daftar harga yang sudah dibuat.*
 
 ### 3.4. Menjadwalkan Pergeseran Karyawan (Shifts)
 Fitur untuk merencanakan jam kerja tim.
@@ -96,8 +84,6 @@ Jika ada karyawan baru yang direkrut, buatkan akun mereka di sini.
 - Klik tombol tambah, isi Nama, Alamat, Email, *Username* serta *Password* (Minta karyawan mengingatnya dengan baik).
 - Sistem akan mempersiapkan ruang masuk atas nama mereka. Anda pun bisa mengeditnya di hari mendatang jika ada kesalahan.
 
-> **[📍 Screenshot Placement: Daftar Akun Employee]**
-> *Penjelasan gambar: Table Manajemen Karyawan bagi Admin.*
 
 ### 3.6. Buku Kas & Laporan Keuangan (Finance)
 Tempat pembukuan uang masuk dan keluar secara mendetail.
@@ -105,8 +91,6 @@ Tempat pembukuan uang masuk dan keluar secara mendetail.
 - **Transaksi Manual:** Jika ada pengeluaran seperti (Beli detergen, Tagihan Listrik), klik **Record Transaction**, jadikan tipenya *Pengeluaran*, lalu tulis Jumlah dan Keterangannya.
 - **Export Laporan (Download Laporan):** Pada panel *Export Report* (atau *Export Statement*), Anda bisa menentukan rentang tanggal awal dan akhir (misal 1 Januari - 31 Januari) dan sistem akan menghasilkan form Excel/PDF (bila disetting). Sangat cocok diberikan pada investor!
 
-> **[📍 Screenshot Placement: Menu Finance & Halaman Download Report Finance]**
-> *Penjelasan gambar: Tampilan laporan grafik, tabel, dan halaman terpisah untuk mencetak PDF/Excel.*
 
 ### 3.7. Pengaturan Bisnis (Settings)
 Sesuaikan informasi *Company Profile*, Nama Toko/Laundry, Kontak HP, maupun alamat toko yang memengaruhi sistem.
